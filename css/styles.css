@@ -1,0 +1,54 @@
+body {
+  background-color: #0e0e0e;
+}
+.home-page {
+  height: 100vh;
+  background-color: #1c2135;
+}
+header {
+  height: 100px;
+}
+.nav-link,
+.nav-link:hover {
+  color: white;
+}
+.content {
+  height: calc(100vh - 100px);
+}
+.about {
+  height: 100vh;
+  background-color: #14141e;
+}
+.skills-box {
+  height: 50vh;
+  background-color: #1c1b29;
+  width: 50vw;
+  border-radius: 5px;
+}
+.portfolio {
+  height: 100vh;
+  background-color: #1c1b29;
+}
+.work-img {
+  height: 200px;
+  background-color: aqua;
+}
+.services {
+  height: 100vh;
+  background-color: #14141e;
+}
+.flags {
+  background-color: #1c1b29;
+}
+.blog {
+  height: 100vh;
+  background-color: #14141e;
+}
+.contact {
+  height: 100vh;
+  background-color: #1c1b29;
+}
+footer {
+  height: 100px;
+  background-color: #14141f;
+}
