@@ -29,10 +29,7 @@ header {
   height: 100vh;
   background-color: #1c1b29;
 }
-.work-img {
-  height: 200px;
-  background-color: aqua;
-}
+
 .services {
   height: 100vh;
   background-color: #14141e;
@@ -51,4 +48,7 @@ header {
 footer {
   height: 100px;
   background-color: #14141f;
+}
+input {
+  background-color: #14141e;
 }
